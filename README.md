@@ -21,7 +21,8 @@ https://ngx-colors.web.app/
 
 | Angular | Latest ngx-colors compatible |
 | ------- | ---------------------------- |
-| 15      | Latest                       |
+| 16      | 3.6.0                        |
+| 15      | 3.4.0                        |
 | 14      | 3.1.4                        |
 | 13      | 3.1.4                        |
 | 12      | 3.0.5                        |
